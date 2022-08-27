@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haskucy
+- 👋 Hi, I’m Rendya Yuschak (@haskucy)
 - 👀 I’m interested in Machine Learning, Cryptography, UI/UX and Math
 - 🌱 I’m currently learning Natural language processing (NLP)
 - 💞️ I’m looking to collaborate on Natural Language Processing (NLP)
